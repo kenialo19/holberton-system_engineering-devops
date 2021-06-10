@@ -4,3 +4,4 @@ el script 2-bring_me_home muestra el comando de cambio de direcorio de trabajo a
 el script 3_listfile muestra el contenido del directrio el formato largo
 en el script 4 listmorefile muestra el contenido del directorio actual incluido los ocultos en formato largo
 en el formato script 5 listfilesdigitonly muesta el contenido del archivo, em formato largo, con id y grupos numericamente y archivos ocultos
+en el script 6-firstdirectory esta crear directorio holberton dentro del directorio /tmp
