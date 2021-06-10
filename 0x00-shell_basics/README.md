@@ -7,3 +7,4 @@ en el formato script 5 listfilesdigitonly muesta el contenido del archivo, em fo
 en el script 6-firstdirectory esta crear directorio holberton dentro del directorio /tmp
 en el scipt 7-movethafile movi el archivo betty de /tmp que ya habia creado a /tpm/holberton
 en el script 8-firstdelete se borro el archivo de betty que estaba en /tmp/holberton/
+en el script 9 firstdirdeletion se  borro el directorio holberton de /tmp
