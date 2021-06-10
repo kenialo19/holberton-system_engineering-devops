@@ -13,3 +13,4 @@ en el script 12-file_type se imprimio el tipo de archivo iamafile que esta en el
 en el script 11-lists se listo los archivos visibles y ocultos del directorio actual y del padre del directorio de trabajo y el directorio /boot en formato largo
 en el script 13 se creo el enlace simbolico en el directorio actual
 en el script 14 se copio los archivos html del directorio actual al directorio padre sin repetir los que ya estan
+en el script 0-iam_betty se cambio del usuario actual al usuario de betty
