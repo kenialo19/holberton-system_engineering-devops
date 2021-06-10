@@ -1,0 +1,1 @@
+el script 0-current_working_directory muestra el nombre de la ruta donde se encuentra el directorio de trabajo
