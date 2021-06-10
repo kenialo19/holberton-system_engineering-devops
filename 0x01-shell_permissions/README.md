@@ -1,0 +1,1 @@
+en el script 0-iam_betty se cambio del usuario actual al usuario betty
