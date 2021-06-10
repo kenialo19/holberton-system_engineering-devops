@@ -3,3 +3,4 @@ el script 1-listit muestra el listado del directorio actual
 el script 2-bring_me_home muestra el comando de cambio de direcorio de trabajo a directorio personal
 el script 3_listfile muestra el contenido del directrio el formato largo
 en el script 4 listmorefile muestra el contenido del directorio actual incluido los ocultos en formato largo
+en el formato script 5 listfilesdigitonly muesta el contenido del archivo, em formato largo, con id y grupos numericamente y archivos ocultos
