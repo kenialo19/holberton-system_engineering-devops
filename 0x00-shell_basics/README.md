@@ -8,3 +8,4 @@ en el script 6-firstdirectory esta crear directorio holberton dentro del directo
 en el scipt 7-movethafile movi el archivo betty de /tmp que ya habia creado a /tpm/holberton
 en el script 8-firstdelete se borro el archivo de betty que estaba en /tmp/holberton/
 en el script 9 firstdirdeletion se  borro el directorio holberton de /tmp
+en el script 10-back se cambio al directorio de trabajo anterior
