@@ -9,4 +9,5 @@ en el scipt 7-movethafile movi el archivo betty de /tmp que ya habia creado a /t
 en el script 8-firstdelete se borro el archivo de betty que estaba en /tmp/holberton/
 en el script 9 firstdirdeletion se  borro el directorio holberton de /tmp
 en el script 10-back se cambio al directorio de trabajo anterior
-en el archivo 12-file_type se imprimio el tipo de archivo iamafile que esta en el directorio /tmp
+en el script 12-file_type se imprimio el tipo de archivo iamafile que esta en el directorio /tmp
+en el script 11-lists se listo los archivos visibles y ocultos del directorio actual y del padre del directorio de trabajo y el directorio /boot en formato largo
