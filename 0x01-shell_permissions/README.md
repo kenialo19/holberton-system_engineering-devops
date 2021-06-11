@@ -8,3 +8,4 @@ en el script 6 multiplepermissions se añadio permiso de ejecución al propietar
 en el script 7-everybody se le dio permiso de ejecución al propietario, al propietario del grupo y a los demás usuarios
 en el script 8-James_Bond no se le dio ningún permiso al propietarios, grupos y a los otros todos los permisos
 en el script 9-John_Doe se le dio todos lo permisos a los propiertarios, los grupos se le dio permiso de lectura y ejecucion y a los otros se le dio permiso de solo lectura y escritura
+e el script 10-mirror_permissions se los mismos permisos de olleh a hello
