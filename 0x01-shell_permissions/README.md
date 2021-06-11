@@ -10,3 +10,4 @@ en el script 8-James_Bond no se le dio ningún permiso al propietarios, grupos y
 en el script 9-John_Doe se le dio todos lo permisos a los propiertarios, los grupos se le dio permiso de lectura y ejecucion y a los otros se le dio permiso de solo lectura y escritura
 e el script 10-mirror_permissions se los mismos permisos de olleh a hello
 en el script 12 se creo  directorio llamado dir_holberton con permisos 751 en el directorio de trabajo
+en el script 13 se cambio el propietario del grupo a holberton para el archivo hello
