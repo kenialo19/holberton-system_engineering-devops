@@ -6,3 +6,4 @@ en el script 4-empty se creo un archillo llamado hello
 en el script 5-execute se creo el permiso de ejecuion al propetatio hello
 en el script 6 multiplepermissions se añadio permiso de ejecución al propietario y al propietario del grupo, y permiso de lectura a los demás usuarios, al archivo hola
 en el script 7-everybody se le dio permiso de ejecución al propietario, al propietario del grupo y a los demás usuarios
+en el script 8-James_Bond no se le dio ningún permiso al propietarios, grupos y a los otros todos los permisos
