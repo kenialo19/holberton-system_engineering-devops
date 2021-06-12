@@ -13,4 +13,5 @@ en el script 12-file_type se imprimio el tipo de archivo iamafile que esta en el
 en el script 11-lists se listo los archivos visibles y ocultos del directorio actual y del padre del directorio de trabajo y el directorio /boot en formato largo
 en el script 13 se creo el enlace simbolico en el directorio actual
 en el script 14 se copio los archivos html del directorio actual al directorio padre sin repetir los que ya estan
-en el script 13 se movio todos los archivos que comienzan con una letra mayúscula al directorio / tmp / u 
+en el script 100 se movio todos los archivos que comienzan con una letra mayúscula al directorio / tmp / u
+en el script 101 se ejecuto un comando que elimino todos los archivos del directorio de trabajo actual que terminan con el carácter ~
