@@ -15,3 +15,4 @@ en el script 13 se creo el enlace simbolico en el directorio actual
 en el script 14 se copio los archivos html del directorio actual al directorio padre sin repetir los que ya estan
 en el script 100 se movio todos los archivos que comienzan con una letra mayúscula al directorio / tmp / u
 en el script 101 se ejecuto un comando que elimino todos los archivos del directorio de trabajo actual que terminan con el carácter ~
+en el script 102 se creo los directorios welcome /, welcome / to / y welcome / to / holberton en el directorio actual
