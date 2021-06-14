@@ -6,3 +6,4 @@ en el script 4-lastline se mostro as últimas 10 líneas de /etc/passwd
 en el script 5 se mostro las 10 primeras lineas de /etc/passwd
 en el escript 6-third_line se mostro la tercera línea del archivo iacta 
 enel script 8-cwd_state se escribio el resultado del comando ls -la
+en el script 9-duplicate_last_line se duplico la última línea del archivo iacta
