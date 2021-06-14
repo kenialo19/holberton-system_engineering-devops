@@ -3,3 +3,4 @@ en el script 1-confused_smiley se imprimio "(Ôo)'
 en el script 2-hellofile se mostro el contenido del archivo /etc/passwd
 en el scrip 3-twofiles se mostro el contenido de de /etc/passwd y /etc/hosts
 en el script 4-lastline se mostro as últimas 10 líneas de /etc/passwd
+en el script 5 se mostro las 10 primeras lineas de /etc/passwd
