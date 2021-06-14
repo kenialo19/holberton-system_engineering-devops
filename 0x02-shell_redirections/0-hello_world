@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -E > 0-hello_world
+cat -E >> 0-hello_world
