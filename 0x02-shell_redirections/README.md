@@ -20,3 +20,4 @@ en el script 18-letteronly se muestra todas las líneas del archivo /etc/ssh/ssh
 en el script 19-AZ se sostiyuo todos los caracteres A y c de la entrada por Z y e respectivamente
 en el script 20-hiago se elimino todas las letras c y C de la entrada
 en el script 21-reverse se invirtio la entrada
+en el script 22-users_and_homes se mostro todos los usuarios y sus directorios personales, ordenados por usuario en el archvivo /etc/passw
