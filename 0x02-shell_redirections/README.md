@@ -10,4 +10,6 @@ enel script 8-cwd_state se escribio el resultado del comando ls -la
 en el script 9-duplicate_last_line se duplico la última línea del archivo iacta
 en el script 10-no_more_js se borro todos los archivos regulares con extencion .js que estan presentespresentes en el directorio actual y en todas sus subcarpetas
 en el script 11-directories se conto el número de directorios y subdirectorios en el directorio actual
-en el script    se mostro los 10 archivos más nuevos en el directorio actual, por linea del mas nuevo al mas antiguo
+en el script 12-newest_files se mostro los 10 archivos más nuevos en el directorio actual, por linea del mas nuevo al mas antiguo
+en el script 14-findthatword se mostro las líneas que contienen el patrón "root" del archivo /etc/passwd
+en el script 13-unique se tomo una lista de palabras como entrada e imprima sólo las palabras que aparecen exactamente una vez
