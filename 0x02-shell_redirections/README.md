@@ -7,3 +7,4 @@ en el script 5 se mostro las 10 primeras lineas de /etc/passwd
 en el escript 6-third_line se mostro la tercera línea del archivo iacta 
 enel script 8-cwd_state se escribio el resultado del comando ls -la
 en el script 9-duplicate_last_line se duplico la última línea del archivo iacta
+en el script 10-no_more_js se borro todos los archivos regulares con extencion .js que estan presentespresentes en el directorio actual y en todas sus subcarpetas.
