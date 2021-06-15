@@ -19,3 +19,4 @@ en el script 17-hidethisword se mostro todas las líneas del archivo /etc/passwd
 en el script 18-letteronly se muestra todas las líneas del archivo /etc/ssh/sshd_config que comienzan con una letra icluidas mayusculas
 en el script 19-AZ se sostiyuo todos los caracteres A y c de la entrada por Z y e respectivamente
 en el script 20-hiago se elimino todas las letras c y C de la entrada
+en el script 21-reverse se invirtio la entrada
