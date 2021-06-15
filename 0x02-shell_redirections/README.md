@@ -15,3 +15,4 @@ en el script 13-unique se tomo una lista de palabras como entrada e imprima sól
 en el script 14-findthatword se mostro las líneas que contienen el patrón "root" del archivo /etc/passwd
 en el script 15-countthatword el número de líneas que contienen el patrón "bin" en el archivo /etc/passwdxsy
 en el script 16-whatsnext se motro las líneas que contienen el patrón "root" y 3 líneas después de ellas en el archivo ''/etc/passwd''
+en el script 17-hidethisword se mostro todas las líneas del archivo /etc/passwd que no contienen el patrón "bin"
