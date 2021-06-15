@@ -16,4 +16,6 @@ en el script 14-findthatword se mostro las líneas que contienen el patrón "roo
 en el script 15-countthatword el número de líneas que contienen el patrón "bin" en el archivo /etc/passwdxsy
 en el script 16-whatsnext se motro las líneas que contienen el patrón "root" y 3 líneas después de ellas en el archivo ''/etc/passwd''
 en el script 17-hidethisword se mostro todas las líneas del archivo /etc/passwd que no contienen el patrón "bin"
-en el script /etc/ssh/sshd_config se muestra todas las líneas del archivo /etc/ssh/sshd_config que comienzan con una letra icluidas mayusculas
+en el script 18-letteronly se muestra todas las líneas del archivo /etc/ssh/sshd_config que comienzan con una letra icluidas mayusculas
+en el script 19-AZ se sostiyuo todos los caracteres A y c de la entrada por Z y e respectivamente
+en el script 20-hiago se elimino todas las letras c y C de la entrada
