@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -size 0 |ls -laR
+ls -laR | find . -type f -size 0
