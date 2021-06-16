@@ -7,3 +7,4 @@ en el script 5-local_variables se enumero todas las variables locales y de entor
 en el script 6-create_local_variable se creo una variable local
 en el script 7-create_global_variable se creo u a variable global
 en el script 8-true_knowledge se imprio la summa de 128 con la variable TRUEKNOWLEDGE
+en el script 9-divide_and_rule se dividi la variable POWER por la variable DIVIDE
