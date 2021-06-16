@@ -1,0 +1,1 @@
+en el script 0-alias se le dio alias a rm *
