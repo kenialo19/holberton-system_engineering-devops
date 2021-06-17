@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%x\n" 1337
+printf "%x\n" $DECIMAL
