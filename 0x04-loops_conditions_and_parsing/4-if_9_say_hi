@@ -6,8 +6,8 @@ while ((i < 10));
 do
 	if ((i==9));
 	then
-	    echo Hi
+	    echo "Hi"
 	fi
-	    echo Holberton School
+	    echo "best School"
 	i=$((i+1))
 done
