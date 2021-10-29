@@ -2,7 +2,6 @@
 #To file, or not to file
 
 FILE="School"
-
 if [ -e "$FILE" ]
 then
     echo "school file exists"
