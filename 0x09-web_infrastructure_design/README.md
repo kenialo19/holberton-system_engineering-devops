@@ -1,38 +1,4 @@
- <h2>Concepts</h2>
-
-  <div class="panel panel-default">
-    <div class="panel-body">
-      <p>
-        <em>For this project, students are expected to look at these concepts:</em>
-      </p>
-
-      <ul>
-          <li>
-            <a href="/concepts/12">DNS</a>
-          </li>
-          <li>
-            <a href="/concepts/13">Monitoring</a>
-          </li>
-          <li>
-            <a href="/concepts/17">Web Server</a>
-          </li>
-          <li>
-            <a href="/concepts/33">Network basics</a>
-          </li>
-          <li>
-            <a href="/concepts/46">Load balancer</a>
-          </li>
-          <li>
-            <a href="/concepts/67">Server</a>
-          </li>
-      </ul>
-    </div>
-  </div>
-
-
-      <div class="well clean" id="project-description">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/lQNEW76KdYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+# 0x09. Web infrastructure design
 <h2>Resources</h2>
 
 <p><strong>Read or watch</strong>:</p>
