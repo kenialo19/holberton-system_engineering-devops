@@ -8,11 +8,11 @@ frontend load_balancer
     
 backend foo
     balance roundrobin
-    server 3396-web-01 35.190.181.149 check
-    server 3396-web-02 3.80.32.63 check
+    server 3396-web-01 35.190.181.149:80 check
+    server 3396-web-02 54.198.184.242:80 check
 "
 sudo apt-get -y update
 sudo apt-get -y install haproxy=1.6.\*
 sudo chmod 777 /etc/haproxy/haproxy.cfg
 echo "$FOO" >> /etc/haproxy/haproxy.cfg
-sudo service haproxy start
+sudo service haproxy restart
