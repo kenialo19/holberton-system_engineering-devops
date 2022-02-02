@@ -2,29 +2,22 @@
 """Gather data from an API"""
 
 
-import requests
-import sys
+from requests import get
+from sys import argv
 
-if __name__ == "__main__":
 
-    userId = sys.argv[1]
-    user = requests.get("https://jsonplaceholder.typicode.com/users/{}"
-                        .format(userId))
-
-    name = user.json().get('name')
-
-    todos = requests.get('https://jsonplaceholder.typicode.com/todos')
-    totalTasks = 0
-    completed = 0
-
-    for task in todos.json():
-        if task.get('userId') == int(userId):
-            totalTasks += 1
-            if task.get('completed'):
-                completed += 1
-
-    print('Employee {} is done with tasks({}/{}):'
-          .format(name, completed, totalTasks))
-
-    print('\n'.join(["\t " + task.get('title') for task in todos.json()
-          if task.get('userId') == int(userId) and task.get('completed')]))
+if __name__ == '__main__':
+        done = 0
+        tasks = []
+        root = 'https://jsonplaceholder.typicode.com'
+        name = get(root + '/users/{}'.format(argv[1])).json().get('name')
+        for i in get(root + '/todos').json():
+            if i.get('userId') == int(argv[1]):
+                tasks.append(i)
+                if i.get('completed') is True:
+                    done += 1
+        print("Employee {} is done with tasks({}/{}):".
+              format(name, done, len(tasks)))
+        for i in tasks:
+            if i.get('completed') is True:
+                print("\t {}".format(i.get('title')))
